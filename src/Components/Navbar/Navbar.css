@@ -1,0 +1,16 @@
+.start-btn{
+    border: 0;
+    padding: 5px 10px;
+    width: 150px;
+    background-color: #023047;
+    color: white;
+    border-radius: 3px;
+}
+.login-btn{
+    border: 0;
+    padding: 5px 10px;
+    width: 150px;
+    background-color: #FB8500;
+    color: white;
+    border-radius: 3px;
+}
